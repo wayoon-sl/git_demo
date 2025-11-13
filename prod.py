@@ -1,4 +1,4 @@
 a = 20
-b = 30
+b = 35
 c = a * b
 print("Product:", c)
